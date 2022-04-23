@@ -10,13 +10,14 @@ The Team Profile Generator is a node command line interface that allows a manage
 
 <h1 align="center">
     <a href="#" target="_blank">
-     View Walkthrough Video
+     Video demonstration
     </a>
 </h1>
 
 
 <div align="center">
-    <img src="#" width="600px">
+    <img src="#">
+    
     
 </div>
 
