@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0.8rem;
+    font-family: "Montserrat", sans-serif;
+    
+}
+
+.box { 
+    border: 1px solid pink; 
+}
+
+body {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    background: #FFF7F7;
+}
+
+
+
+.name-role {
+    display: flex;
+    justify-content: space-around;
+    /* margin-left:  */
+}
+
+.my-team { 
+    background-color: #1b3b6a;
+    color: #fff;
+    font-size: 28px;
+ }
+
+.manager-name {
+     background-color: #1b3b6a;
+     color: #fff;
+ }
+
+.engineer-name { 
+    background-color: #1b3b6a;
+    color: #fff;
+ }
+
+.intern-name { 
+    background-color: #1b3b6a;
+    color: #fff;
+ }
+
+.employee-info { 
+    background-color: #ffe9ec; 
+}
+
+.card { 
+    background-color: #ffe9ec; 
+}
